@@ -1,6 +1,6 @@
 TO DO LIST
 
-Simple to-do list using pure Javascript and CSS (no dependencies)
+Simple to-do list using plain jQuery and CSS
 
 * Create new items on the list
 * Cross off items by clicking them
